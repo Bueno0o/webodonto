@@ -1,0 +1,49 @@
+.titulo h1{
+    color: rgb(101, 160, 187);
+    text-shadow: 2px 5px 15px gray;
+    font-size: 8em;
+}
+.web{
+    margin-top: .60em;
+    margin-left: .20em;
+}
+.odonto{
+    margin-left: .50em;
+}
+.subtexto{
+    margin-top: 2em;
+    font-size: 1.1em;
+    margin-left: 3em;
+    font-weight: bold;
+}
+.login{
+    margin-top: -23em;
+    margin-left: auto;
+    margin-right: .80em;
+    display: flex;
+    padding: .90em;
+}
+.subtextosomos{
+    margin-top: 16em;
+    margin-bottom: 16em;
+    font-weight: bold;
+    font-size: 1.4em;
+}
+.subtextocontato{
+    margin-bottom: 12em;
+    font-size: 1.3em;
+    color: gray;
+}
+.voltar{
+    margin-left: 2em;
+}
+.classe{
+    margin-top: 8em;
+}
+.form{
+    margin-left: 4em;
+    margin-bottom: 2em;
+}
+.body {
+    background-color: aqua;
+}
